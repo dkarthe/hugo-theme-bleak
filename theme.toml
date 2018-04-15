@@ -2,14 +2,14 @@ name = "edyo"
 license = "MIT"
 licenselink = "https://github.com/edyo/hugo-theme-edyo/blob/master/LICENSE.md"
 description = "Based in Bleak theme"
-homepage = "http://www.entredevyops.es/"
+homepage = "http://www.tecbyte.me/"
 tags = ["ghost", "minimal"]
 features = ["", ""]
 min_version = 0.15
 
 [author]
   name = "Eduardo Bellido Bellido"
-  homepage = "http://edubxb.net"
+  homepage = "http://techbyte.me"
 
 # If porting an existing theme
 [original]
